@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ "$#" -eq 0 ]; then
+    echo "Usage: bash script.bash [Your Name]"
+    exit 1
+fi
+
+NAME="$@"
+
+echo "Welcome, $NAME"

@@ -19,8 +19,9 @@
 ```bash
 touch script.bash
 ```
-
-`root@LAPTOP-AJ4C61LN:~# touch script.bash`
+Результат :
+ 
+ `root@LAPTOP-AJ4C61LN:~# touch script.bash`
 
 4\. Открытие и редактирование файла :
 
@@ -29,6 +30,7 @@ touch script.bash
 ```bash
 nano script.bash
 ```
+Результат :
 
 `root@LAPTOP-AJ4C61LN:~# nano script.bash`
 

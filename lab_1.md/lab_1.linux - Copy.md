@@ -16,11 +16,13 @@
 
 Откройте терминал и выполните команду для создания нового файла script.bash:
 
-root@LAPTOP-AJ4C61LN:~# touch script.bash
+`root@LAPTOP-AJ4C61LN:~# touch script.bash`
 
 4\. Открытие и редактирование файла :
 
-В терминале выполните команду для открытия файла в текстовом редакторе:                 nano script.bash
+В терминале выполните команду для открытия файла в текстовом редакторе:                 
+
+`nano script.bash`
 
 root@LAPTOP-AJ4C61LN:~# nano script.bash
 
@@ -38,15 +40,15 @@ echo "Welcome to ITMO University"
 
 Вернитесь в Terminal и введите следующую команду, чтобы запустить script :
 
-root@LAPTOP-AJ4C61LN:~# bash script.bash
+`root@LAPTOP-AJ4C61LN:~# bash script.bash`
 
 Результат :
 
-root@LAPTOP-AJ4C61LN:~# bash script.bash
+`root@LAPTOP-AJ4C61LN:~# bash script.bash
 
 Welcome to ITMO University
 
-root@LAPTOP-AJ4C61LN:~#
+root@LAPTOP-AJ4C61LN:~#`
 
 7\. Модификация script :
 
@@ -68,13 +70,13 @@ fi
 
 Сохраните файл script.bash и запустите script с таким именем:
 
-root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin
+`root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
 
-Welcome, Vasya Pupkin
+`Welcome, Vasya Pupkin`
 
 Результат :
 
-root@LAPTOP-AJ4C61LN:~# touch script.bash
+`root@LAPTOP-AJ4C61LN:~# touch script.bash
 
 root@LAPTOP-AJ4C61LN:~# nano script.bash
 
@@ -82,6 +84,6 @@ root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin
 
 Welcome, Vasya Pupkin
 
-root@LAPTOP-AJ4C61LN:~#
+root@LAPTOP-AJ4C61LN:~#`
 
 Вы можете попробовать любое имя, и скрипт будет работать как положено.

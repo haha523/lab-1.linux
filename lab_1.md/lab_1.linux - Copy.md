@@ -16,6 +16,10 @@
 
 Откройте терминал и выполните команду для создания нового файла script.bash:
 
+```bash
+touch script.bash
+```
+
 `root@LAPTOP-AJ4C61LN:~# touch script.bash`
 
 4\. Открытие и редактирование файла :
@@ -23,6 +27,10 @@
 В терминале выполните команду для открытия файла в текстовом редакторе:                 
 
 `nano script.bash`
+
+```bash
+nano script.bash
+```
 
 `root@LAPTOP-AJ4C61LN:~# nano script.bash`
 

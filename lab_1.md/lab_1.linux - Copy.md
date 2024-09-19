@@ -24,7 +24,7 @@
 
 `nano script.bash`
 
-root@LAPTOP-AJ4C61LN:~# nano script.bash
+`root@LAPTOP-AJ4C61LN:~# nano script.bash`
 
 5\. Пишите код для script :
 
@@ -44,11 +44,11 @@ echo "Welcome to ITMO University"
 
 Результат :
 
-`root@LAPTOP-AJ4C61LN:~# bash script.bash
+`root@LAPTOP-AJ4C61LN:~# bash script.bash`
 
-Welcome to ITMO University
+`Welcome to ITMO University`
 
-root@LAPTOP-AJ4C61LN:~#`
+`root@LAPTOP-AJ4C61LN:~#`
 
 7\. Модификация script :
 
@@ -76,14 +76,14 @@ fi
 
 Результат :
 
-`root@LAPTOP-AJ4C61LN:~# touch script.bash
+`root@LAPTOP-AJ4C61LN:~# touch script.bash`
 
-root@LAPTOP-AJ4C61LN:~# nano script.bash
+`root@LAPTOP-AJ4C61LN:~# nano script.bash`
 
-root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin
+`root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
 
-Welcome, Vasya Pupkin
+`Welcome, Vasya Pupkin`
 
-root@LAPTOP-AJ4C61LN:~#`
+`root@LAPTOP-AJ4C61LN:~#`
 
 Вы можете попробовать любое имя, и скрипт будет работать как положено.

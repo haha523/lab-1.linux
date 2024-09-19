@@ -71,11 +71,11 @@ bash script.bash
 
 if [ "$#" -eq 0 ]; then
 
-`   `echo "Usage: bash script.bash [Your Name]"
+  echo "Usage: bash script.bash [Your Name]"
 
 else
 
-`    `echo "Welcome, $\*"
+  echo "Welcome, $\*"
 
 fi
 ```

@@ -36,7 +36,7 @@ nano script.bash
 
 5\. Пишите код для script :
 
-В файле script.bash, введите следующий код :
+В файле *script.bash*, введите следующий код :
 
 ```bash
 #!/bin/bash
@@ -82,7 +82,7 @@ fi
 
 8\. Сохраните и запустите script еще раз :
 
-Сохраните файл script.bash и запустите script с таким именем:
+Сохраните файл *script.bash* и запустите script с таким именем:
 
 `root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
 

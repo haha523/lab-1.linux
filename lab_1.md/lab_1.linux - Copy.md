@@ -38,17 +38,21 @@ nano script.bash
 
 В файле script.bash, введите следующий код :
 
+```bash
 #!/bin/bash
 
 echo "Welcome to ITMO University"
+```
 
 Это простой script, который при запуске печатает "Welcome to ITMO University".
 
 6\. Запустите script :
 
-Вернитесь в Terminal и введите следующую команду, чтобы запустить script :
+Вернитесь в Terminal и введите следующую команду, чтобы запустить script :  `root@LAPTOP-AJ4C61LN:~# bash script.bash`
 
-`root@LAPTOP-AJ4C61LN:~# bash script.bash`
+```bash
+bash script.bash
+```
 
 Результат :
 
@@ -62,6 +66,7 @@ echo "Welcome to ITMO University"
 
 Изменение скрипта для вывода имени:
 
+```bash
 #!/bin/bash
 
 if [ "$#" -eq 0 ]; then
@@ -73,6 +78,7 @@ else
 `    `echo "Welcome, $\*"
 
 fi
+```
 
 8\. Сохраните и запустите script еще раз :
 

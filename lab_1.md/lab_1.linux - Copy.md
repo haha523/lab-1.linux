@@ -5,6 +5,7 @@
 1\. Установите среду Linux :
 
 Я устанавливаю `Ubuntu`, чтобы использовать операционную систему `Linux` .
+
 ![image](https://github.com/haha523/lab-1.linux/blob/fdcb31455a00e4e6a97fb9052e089b2bb2f124b4/app%20Ubuntu.png)
 
 2\. Запустить терминал :

@@ -74,14 +74,13 @@ bash script.bash
 #!/bin/bash
 
 if [ "$#" -eq 0 ]; then
-
-  echo "Usage: bash script.bash [Your Name]"
-
-else
-
-  echo "Welcome, $\*"
-
+    echo "Usage: bash script.bash [Your Name]"
+    exit 1
 fi
+
+NAME="$@"
+
+echo "Welcome, $NAME"
 ```
 
 ![image](https://github.com/haha523/lab-1.linux/blob/a91cf3aeeba355060bbaec4fa21a5380c5dd357d/code%20linux%201.2.png)

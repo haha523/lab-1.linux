@@ -107,4 +107,8 @@ fi
 
 `root@LAPTOP-AJ4C61LN:~#`
 
+
+![image](https://github.com/haha523/lab-1.linux/blob/13dcdb7ba59d86f17334aa679b8059ecf912872e/input%201.2.png)
+
+ 
 Вы можете попробовать любое имя, и скрипт будет работать как положено.

@@ -84,6 +84,9 @@ else
 fi
 ```
 
+![image](https://github.com/haha523/lab-1.linux/blob/a91cf3aeeba355060bbaec4fa21a5380c5dd357d/code%20linux%201.2.png)
+
+
 8\. Сохраните и запустите script еще раз :
 
 Сохраните файл *script.bash* и запустите script с таким именем:

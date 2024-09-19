@@ -44,7 +44,7 @@ nano script.bash
 echo "Welcome to ITMO University"
 ```
 
-Это простой script, который при запуске печатает "Welcome to ITMO University".
+Это простой script, который при запуске печатает `"Welcome to ITMO University"`.
 
 ![image](https://github.com/haha523/lab-1.linux/blob/4d2adbe4d5f128f7902dfc5dc2039d8d88ec53a8/code%20linux%201.1%20a.png)
 

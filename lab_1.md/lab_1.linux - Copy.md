@@ -56,6 +56,8 @@ echo "Welcome to ITMO University"
 bash script.bash
 ```
 
+![image](https://github.com/haha523/lab-1.linux/blob/246ea11b597058a610564d23335e6d66fb0a704a/input%201.1.png)
+
 Результат :
 
 `root@LAPTOP-AJ4C61LN:~# bash script.bash`

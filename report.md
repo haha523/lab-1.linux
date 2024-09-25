@@ -94,6 +94,10 @@ echo "Welcome, $NAME"
 
 `Welcome, Vasya Pupkin`
 
+```bash
+bash script.bash Vasya Pupkin
+```
+
 Результат :
 
 `root@LAPTOP-AJ4C61LN:~# touch script.bash`

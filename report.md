@@ -90,13 +90,13 @@ echo "Welcome, $NAME"
 
 Сохраните файл *script.bash* и запустите script с таким именем:
 
-`root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
-
-`Welcome, Vasya Pupkin`
-
 ```bash
 bash script.bash Vasya Pupkin
 ```
+
+`root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
+
+`Welcome, Vasya Pupkin`
 
 Результат :
 

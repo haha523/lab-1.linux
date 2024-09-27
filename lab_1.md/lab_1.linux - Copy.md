@@ -91,6 +91,10 @@ fi
 
 Сохраните файл *script.bash* и запустите script с таким именем:
 
+```bash
+bash script.bash Vasya Pupkin
+```
+
 `root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
 
 `Welcome, Vasya Pupkin`

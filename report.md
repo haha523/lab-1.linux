@@ -110,7 +110,7 @@ bash script.bash Vasya Pupkin
 `root@LAPTOP-AJ4C61LN:~#`
 
 
-![image](https://github.com/haha523/lab-1.linux/blob/13dcdb7ba59d86f17334aa679b8059ecf912872e/input%201.2.png)
+![image](https://github.com/haha523/lab-1.linux/blob/77f36eaeb8f7c517858fd94304a690bd2c8efcde/png%20for%20linux%201/png%20input%20linux%202.png).
 
  
 Вы можете попробовать любое имя, и скрипт будет работать как положено.

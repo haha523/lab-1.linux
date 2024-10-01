@@ -55,7 +55,7 @@ echo "Welcome to ITMO University"
 bash script.bash
 ```
 
-![image](https://github.com/haha523/lab-1.linux/blob/246ea11b597058a610564d23335e6d66fb0a704a/input%201.1.png)
+![image](https://github.com/haha523/lab-1.linux/blob/33608dcd081c3cf4540988429c780e14442bef42/png%20for%20linux%201/png%20input%20linux%201.png).
 
 Результат :
 

@@ -25,14 +25,14 @@ touch script.bash
 
 4\. Открытие и редактирование файла :
 
-В терминале выполните команду для открытия файла в текстовом редакторе:  `nano script.bash`
+В терминале выполните команду для открытия файла в текстовом редакторе:  `gedit script.bash`
 
 ```bash
-nano script.bash
+gedit script.bash
 ```
 Результат :
 
-`root@LAPTOP-AJ4C61LN:~# nano script.bash`
+`root@LAPTOP-AJ4C61LN:~# gedit script.bash`
 
 5\. Пишите код для script :
 

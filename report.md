@@ -101,9 +101,7 @@ bash script.bash Vasya Pupkin
 
 Результат :
 
-`root@LAPTOP-AJ4C61LN:~# touch script.bash`
-
-`root@LAPTOP-AJ4C61LN:~# nano script.bash`
+`root@LAPTOP-AJ4C61LN:~# gedit script.bash`
 
 `root@LAPTOP-AJ4C61LN:~# bash script.bash Vasya Pupkin`
 

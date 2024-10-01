@@ -69,6 +69,8 @@ bash script.bash
 
 `Welcome to ITMO University`
 
+`root@LAPTOP-AJ4C61LN:~#`
+
 7\. Модификация script :
 
 Изменение скрипта для вывода имени:

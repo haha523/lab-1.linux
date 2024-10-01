@@ -84,7 +84,7 @@ NAME="$@"
 echo "Welcome, $NAME"
 ```
 
-![image](https://github.com/haha523/lab-1.linux/blob/a91cf3aeeba355060bbaec4fa21a5380c5dd357d/code%20linux%201.2.png)
+![image](https://github.com/haha523/lab-1.linux/blob/8e91c5007ed494581188a9762a47cc7d5b5c7ce0/png%20for%20linux%201/png%20code%20linux%202.png).
 
 
 8\. Сохраните и запустите script еще раз :

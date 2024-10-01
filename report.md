@@ -47,6 +47,8 @@ echo "Welcome to ITMO University"
 Это простой script, который при запуске печатает `"Welcome to ITMO University"`.
 
 ![image](https://github.com/haha523/lab-1.linux/blob/780f6bef032d2aa0729235691c3419cfeb92247f/png%20for%20linux%201/png%20code%20linux%201.png)
+
+
 6\. Запустите script :
 
 Вернитесь в Terminal и введите следующую команду, чтобы запустить script :  `root@LAPTOP-AJ4C61LN:~# bash script.bash`

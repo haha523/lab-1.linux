@@ -61,11 +61,13 @@ bash script.bash
 
 Результат :
 
+`root@LAPTOP-AJ4C61LN:~# touch script.bash`
+
+`root@LAPTOP-AJ4C61LN:~# gedit script.bash`
+
 `root@LAPTOP-AJ4C61LN:~# bash script.bash`
 
 `Welcome to ITMO University`
-
-`root@LAPTOP-AJ4C61LN:~#`
 
 7\. Модификация script :
 
